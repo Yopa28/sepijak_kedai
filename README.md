@@ -173,6 +173,3 @@ Frontend jalan di `http://localhost:5173`.
 
 ---
 
-## Lisensi
-
-Project ini dibuat untuk keperluan pembelajaran dan portfolio.
